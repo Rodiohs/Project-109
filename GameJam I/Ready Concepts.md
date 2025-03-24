@@ -28,12 +28,12 @@
 >>	- Triple Jump
 >>	- Damage Dash
 >>	- Upper Cut
->>	- Proyectil Omnidireccional
 >>- ## Habilidades Especiales:
 >>	- +Dmg enemigos airborn
 >>	- Enemigos Explosivos
 >>	- +Dmg enemigos atrapados
 >>	- +Dmg al entrar a una horda(Por x segundos)
 >>	- +HP al entrar a una horda(Por x segundos)
->>	- 
+>>	- Proyectil Omnidireccional
+>>	- Kirby lanzable
 
